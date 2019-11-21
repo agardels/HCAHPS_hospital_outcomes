@@ -226,4 +226,5 @@ FROM   (
                           a.hospital_name, 
                           a.location_city, 
                           a.state, 
-                          a.zip_code) a) b 
+                          a.zip_code) a) b
+;
